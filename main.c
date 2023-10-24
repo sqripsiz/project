@@ -1,5 +1,4 @@
-////////////////////////////////////////
-// main.c
+
 
 #include <stdio.h> 
 #include "calculate.h"
